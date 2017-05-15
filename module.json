@@ -1,0 +1,9 @@
+{
+    "alias": "edutalk-assets",
+    "name": "Assets management",
+    "author": "Vuong Pham - <a href=\"https://gitlab.edutalk.vn/vuong.pham\">https://gitlab.edutalk.vn/vuong.pham</a>",
+    "description": "Assets management package.",
+    "type": "core",
+    "namespace": "Edutalk\\Base\\AssetsManagement",
+    "autoload": "psr-4"
+}
