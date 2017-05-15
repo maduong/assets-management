@@ -3,16 +3,16 @@
     "description": "Edutalk assets management",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/assets-management/issues",
+        "source": "https://github.com/maduong/assets-management"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
             "email": "kingdom102@gmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/maduong/assets-management/issues",
-        "source": "https://github.com/maduong/assets-management"
-    },
     "require": {
         "php": ">=5.6.4"
     },
